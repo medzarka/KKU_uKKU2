@@ -1,1 +1,1 @@
-from uKKU2.wsgi import application
+from ukku2.wsgi import application

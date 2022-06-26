@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'uKKU2.urls'
+ROOT_URLCONF = 'ukku2.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'uKKU2.wsgi.application'
+WSGI_APPLICATION = 'ukku2.wsgi.application'
 
 
 # Database
