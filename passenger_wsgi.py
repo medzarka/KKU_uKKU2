@@ -1,1 +1,0 @@
-from ukku2.wsgi import application
